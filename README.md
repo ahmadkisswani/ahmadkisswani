@@ -41,20 +41,16 @@
 
 <div align="center">
   <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=AhmadKisswani
-&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"/>
+  <img src="https://streak-stats.demolab.com?user=AhmadKisswani&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"/>
   
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmadKisswani
-&show_icons=true&theme=dracula&hide_border=false" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmadKisswani&show_icons=true&theme=dracula&hide_border=false" height="150" alt="stats graph"/>
   
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadKisswani
-&layout=compact&theme=dracula&hide_border=false" height="150" alt="top languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadKisswani&layout=compact&theme=dracula&hide_border=false" height="150" alt="top languages graph"/>
   
   <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app?username=AhmadKisswani
-&theme=dracula&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph"/>
+  <img src="https://github-profile-trophy.vercel.app?username=AhmadKisswani&theme=dracula&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph"/>
 </div>
 
 
