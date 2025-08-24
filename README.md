@@ -38,10 +38,21 @@
 ---
 
 ### 📈 GitHub Stats  
+
 <div align="center">
+  <!-- Streak Stats -->
   <img src="https://streak-stats.demolab.com?user=ahmadkisswani&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"/>
-  <img src="https://github-profile-trophy.vercel.app?username=ahmadkisswani&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph"/>
+  
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmadkisswani&show_icons=true&theme=dracula&hide_border=false" height="150" alt="stats graph"/>
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadkisswani&layout=compact&theme=dracula&hide_border=false" height="150" alt="top languages graph"/>
+  
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app?username=ahmadkisswani&theme=dracula&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph"/>
 </div>
+
 
 ---
 
