@@ -35,19 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="60" alt="jquery logo"/>
 </div>
 
----
 
-### 📈 GitHub Stats  
-
-<div align="center">
-  <!-- Streak Stats -->
-  [[![GitHub Streak](https://streak-stats.demolab.com?user=ahmadkisswani&theme=dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
-  
-
-</div>
-
-
----
 
 ### 🌐 Connect with Me  
 <div align="center">
