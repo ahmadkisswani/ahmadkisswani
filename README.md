@@ -5,7 +5,7 @@
 
 ## ✨ About Me  
 
-💻 Full-Stack Java Developer with **5+ years of professional experience** (20 years of coding background).  
+💻 Full-Stack Java Developer with **6+ years of professional experience** .  
 🔹 Specialized in **Java EE, Spring Boot, Hibernate/JPA, OAuth2, REST APIs**.  
 🔹 Hands-on experience with **Payment & Remittance APIs** (Visa Direct, Banking APIs, Exchange Rates, Webhooks).  
 🔹 Strong in **Database Design & Performance Optimization** (JDBC, Hibernate, JPA).  
