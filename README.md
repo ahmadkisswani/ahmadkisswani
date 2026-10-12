@@ -43,7 +43,7 @@
     <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="30"/>
   </a>
 <a href="https://ahmadkisswani.site" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-ahmadkisswani.site-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" height="30"/>
 </a>
 </div>
 
